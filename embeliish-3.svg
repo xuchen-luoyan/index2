@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>可视化</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="15.2072483%" y1="0%" x2="72.5585938%" y2="77.8211806%" id="linearGradient-1">
+            <stop stop-color="#5C8DF7" offset="0%"></stop>
+            <stop stop-color="#0037FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="23.8458807%" y1="15.5539773%" x2="82.8036222%" y2="82.0578835%" id="linearGradient-2">
+            <stop stop-color="#90EAFD" offset="0%"></stop>
+            <stop stop-color="#1BAADA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-954.000000, -137.000000)" fill-rule="nonzero">
+            <g id="可视化" transform="translate(954.000000, 137.000000)">
+                <rect id="Rectangle-33" x="0" y="0" width="72" height="72"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="24" height="72"></rect>
+                <rect id="Rectangle-Copy-5" fill="url(#linearGradient-2)" x="24" y="24" width="24" height="48"></rect>
+                <polygon id="Rectangle-16-Copy" fill="#FFCB33" transform="translate(60.000000, 60.000000) scale(-1, 1) translate(-60.000000, -60.000000) " points="72 48 72 72 48 72"></polygon>
+                <polygon id="Rectangle-16-Copy-2" fill="#86C87D" transform="translate(36.000000, 36.000000) scale(1, -1) translate(-36.000000, -36.000000) " points="48 24 48 48 24 48"></polygon>
+                <polygon id="Rectangle-16-Copy-4" fill="#FFA10A" transform="translate(60.000000, 60.000000) scale(1, -1) translate(-60.000000, -60.000000) " points="72 48 72 72 48 72"></polygon>
+                <polygon id="Rectangle-16-Copy-3" fill="#FFCB33" transform="translate(12.000000, 12.000000) scale(1, -1) translate(-12.000000, -12.000000) " points="24 0 24 24 0 24"></polygon>
+                <rect id="Rectangle-17-Copy" fill="#FFCB33" x="56" y="0" width="16" height="16" rx="8"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

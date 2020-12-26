@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>视觉</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="15.2072483%" y1="0%" x2="72.5585938%" y2="77.8211806%" id="linearGradient-1">
+            <stop stop-color="#5C8DF7" offset="0%"></stop>
+            <stop stop-color="#0037FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="23.8458807%" y1="15.5539773%" x2="82.8036222%" y2="82.0578835%" id="linearGradient-2">
+            <stop stop-color="#90EAFD" offset="0%"></stop>
+            <stop stop-color="#1BAADA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="视觉" fill-rule="nonzero">
+            <g id="Group-11">
+                <circle id="Oval-17-Copy" fill="#FFCB33" cx="36" cy="36" r="28"></circle>
+                <path d="M36,8 C51.463973,8 64,20.536027 64,36 L36,36 L36,8 Z" id="Combined-Shape" fill="#FFA10A"></path>
+                <path d="M0,36 L72,36 C71.3225599,56.0010926 55.4640532,72 36,72 C16.5359468,72 0.677440104,56.0010926 0,36 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <circle id="Oval-17" fill="url(#linearGradient-2)" cx="36" cy="36" r="11"></circle>
+                <circle id="Oval-17-Copy-2" fill="#63D1EF" cx="17" cy="10" r="10"></circle>
+                <circle id="Oval-17-Copy-4" fill="#FFFFFF" cx="32" cy="31" r="3"></circle>
+                <rect id="Rectangle-25" fill="#2F54EB" x="64" y="0" width="8" height="8"></rect>
+                <path d="M26.9484863,9.55847168 C26.9572311,9.72993909 26.9616568,9.90254682 26.9616568,10.0761882 C26.9616568,15.5990357 22.4845043,20.0761882 16.9616568,20.0761882 C15.7217678,20.0761882 14.5345829,19.8505351 13.4389295,19.4380561 C16.7974378,14.8992383 21.4952535,11.4114138 26.9484863,9.55847168 Z" id="Combined-Shape" fill="#05A12B"></path>
+            </g>
+        </g>
+    </g>
+</svg>
