@@ -83,15 +83,13 @@ div {
 
 .brand {
   position: absolute;
-  right: -48px;
-  bottom: 8px;
+  right: -33px;
+  top: 8px;
   width: auto;
-  background: red;
   display: inline-block;
-  font-size: 12px;
+  font-size: 20px;
   height: auto;
   padding: 2px 5px;
-  border-radius: 2px;
   line-height: 16px;
 }
 
